@@ -1,5 +1,7 @@
 # example_datasets_timeseries_hcci
 Example dataset for trajectory processing (timeseries)
+This is an example taken from  a 'sliding window' calculation during a 2fs CW-circularly polarized laser pulse on the HCCI molecule.
+
 
 1. Unzip the test sumviz files
    ```
