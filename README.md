@@ -11,7 +11,7 @@ Example dataset for trajectory processing (timeseries)
    ```
    Options selected interactively are, in order:
    ```
-   1  # use nuclear/CP coordinates aw is
+   1  # use nuclear/CP coordinates as is
    8  # Use a specific CP
    C2 C3  # specify the C2 C3 BCP
    4  # 'tracking' mode - projection eigenvectors are updated at each timestep
